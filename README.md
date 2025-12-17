@@ -92,10 +92,12 @@ We are a **full‑stack software house** delivering powerful, scalable, and beau
 </p>
 
 ### E-commerce
+
 <p>
-  <img src="https://skillicons.dev/icons?i=shopify" alt="Shopify" width="50" />
-  <img src="https://skillicons.dev/icons?i=woocommerce" alt="WooCommerce" width="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/shopify.svg" alt="Shopify" width="40" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/woocommerce.svg" alt="WooCommerce" width="40" />
 </p>
+
 
 ### Game Engines
 <p>
