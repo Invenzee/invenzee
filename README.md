@@ -7,6 +7,8 @@
 
 We are a **full‑stack software house** delivering powerful, scalable, and beautifully designed digital products. Our team blends engineering, design, and strategy to create experiences that perform and inspire.
 
+![Invenzee Animation](https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1200&color=00AEEF&width=800&lines=Invenzee+-+Creating+Future-Ready+Digital+Solutions;Web+%26+Mobile+Development+Experts;Branding+.+E-commerce+.+SEO+.+Game+Development)
+
 ## 🏢 **What We Do**
 
 ### 💻 **Web Development**
