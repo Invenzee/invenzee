@@ -55,19 +55,54 @@ We are a **full‑stack software house** delivering powerful, scalable, and beau
 
 ---
 
-## ⚙️ **Tech Stack**
 
-### **Frontend:** React, Next.js, Vue, Tailwind, HTML, CSS, JS
 
-### **Backend:** Node.js, Django, PHP, Laravel
+## ⚙️ Tech Stack
 
-### **Mobile:** Flutter, React Native
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JS" width="50" />
+</p>
 
-### **Design:** Figma, Illustrator, Photoshop
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="50" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="50" />
+</p>
 
-### **E‑commerce:** Shopify, WooCommerce
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="50" />
+</p>
 
-### **Game Engines:** Unity, Unreal Engine
+### Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" />
+  <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="50" />
+  <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="50" />
+</p>
+
+### E-commerce
+<p>
+  <img src="https://skillicons.dev/icons?i=shopify" alt="Shopify" width="50" />
+  <img src="https://skillicons.dev/icons?i=woocommerce" alt="WooCommerce" width="50" />
+</p>
+
+### Game Engines
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="50" />
+  <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="50" />
+</p>
+
 
 ---
 
