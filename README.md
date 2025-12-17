@@ -1,26 +1,11 @@
 # <img src="invenzee-01.png" width="120" />
 
-# 🚀 **Invenzee**
-
 ### *Crafting Future‑Ready Digital Experiences*
 
----
 
 ## 🎬 **Welcome to Invenzee**
 
 We are a **full‑stack software house** delivering powerful, scalable, and beautifully designed digital products. Our team blends engineering, design, and strategy to create experiences that perform and inspire.
-
----
-
-## 🌟 **Animated Brand Intro (Add Your GIF/Logo Here)**
-
-> Replace the GIF link with your animated logo
-
-```md
-![Invenzee Animated Logo](YOUR_LOGO_GIF_URL)
-```
-
----
 
 ## 🏢 **What We Do**
 
@@ -92,22 +77,12 @@ We are a **full‑stack software house** delivering powerful, scalable, and beau
 * 🔒 Secure & Scalable Solutions
 * 🌍 Global Client Reach
 
----
 
-## 📂 **Featured Projects (Add Later)**
-
-```md
-- 🔹 Project Name – Short description
-- 🔹 Project Name – Short description
-- 🔹 Project Name – Short description
-```
-
----
 
 ## 📬 **Contact Us**
 
 📧 **[info@invenzee.com](mailto:info@invenzee.com)**
-🌐 *Add your website if available*
+🌐 **https://invenzee.com/**
 💬 Open to collaborations, partnerships, and projects!
 
 ---
