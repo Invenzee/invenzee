@@ -1,4 +1,4 @@
-# <img src="YOUR_LOGO_GIF_URL" width="120" />
+# <img src="invenzee-01.png" width="120" />
 
 # 🚀 **Invenzee**
 
